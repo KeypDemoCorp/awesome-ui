@@ -3,7 +3,7 @@
 
 # Simulate build time
 echo "Running tests..."
-sleep 60
+sleep 90
 
 if [[ "$(cat BUILD_RESULT.txt)" == "success" ]]; then
   echo "Tests are successful"
