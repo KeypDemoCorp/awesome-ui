@@ -1,1 +1,1 @@
-Add import
+Add import strategy
