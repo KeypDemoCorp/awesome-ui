@@ -1,0 +1,1 @@
+Content for file rename-the-color-palette-for-screen-readers.md
