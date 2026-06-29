@@ -1,0 +1,1 @@
+Content for file optimize-the-image-processing-in-the-mobile-app.md
