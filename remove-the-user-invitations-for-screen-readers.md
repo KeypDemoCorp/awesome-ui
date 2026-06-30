@@ -1,0 +1,1 @@
+Content for file remove-the-user-invitations-for-screen-readers.md
