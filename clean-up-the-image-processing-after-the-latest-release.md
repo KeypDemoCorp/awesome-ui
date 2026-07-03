@@ -1,0 +1,1 @@
+Content for file clean-up-the-image-processing-after-the-latest-release.md
