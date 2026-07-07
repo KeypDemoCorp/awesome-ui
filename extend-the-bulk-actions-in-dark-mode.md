@@ -1,0 +1,1 @@
+Content for file extend-the-bulk-actions-in-dark-mode.md
