@@ -1,0 +1,1 @@
+Content for file standardize-the-email-templates-after-sign-up.md
