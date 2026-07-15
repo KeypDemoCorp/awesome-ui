@@ -1,0 +1,1 @@
+Content for file validate-the-user-invitations-for-screen-readers.md
