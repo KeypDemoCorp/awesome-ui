@@ -1,0 +1,1 @@
+Content for file add-the-localization-support-when-offline.md
