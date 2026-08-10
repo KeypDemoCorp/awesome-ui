@@ -1,0 +1,1 @@
+Content for file simplify-the-caching-layer-in-the-mobile-app.md
