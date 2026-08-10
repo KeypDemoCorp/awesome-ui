@@ -1,0 +1,1 @@
+Content for file validate-the-user-profile-for-new-users.md
