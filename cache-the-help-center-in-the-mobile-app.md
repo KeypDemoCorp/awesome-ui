@@ -1,0 +1,1 @@
+Content for file cache-the-help-center-in-the-mobile-app.md
