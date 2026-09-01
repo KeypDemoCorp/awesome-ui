@@ -1,0 +1,1 @@
+Content for file add-the-image-processing-on-mobile.md
