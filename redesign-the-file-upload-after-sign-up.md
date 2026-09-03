@@ -1,0 +1,1 @@
+Content for file redesign-the-file-upload-after-sign-up.md
