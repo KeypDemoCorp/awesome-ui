@@ -1,0 +1,1 @@
+Content for file stabilize-the-team-management-on-the-main-screen.md
