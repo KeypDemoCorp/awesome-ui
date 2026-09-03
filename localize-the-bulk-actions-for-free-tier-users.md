@@ -1,0 +1,1 @@
+Content for file localize-the-bulk-actions-for-free-tier-users.md
