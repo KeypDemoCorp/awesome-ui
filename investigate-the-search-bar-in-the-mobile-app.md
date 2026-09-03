@@ -1,0 +1,1 @@
+Content for file investigate-the-search-bar-in-the-mobile-app.md
