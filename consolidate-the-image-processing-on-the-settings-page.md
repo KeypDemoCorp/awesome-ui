@@ -1,0 +1,1 @@
+Content for file consolidate-the-image-processing-on-the-settings-page.md
