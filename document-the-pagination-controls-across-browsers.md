@@ -1,0 +1,1 @@
+Content for file document-the-pagination-controls-across-browsers.md
