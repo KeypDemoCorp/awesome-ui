@@ -1,0 +1,1 @@
+Content for file refactor-the-checkout-process.md
