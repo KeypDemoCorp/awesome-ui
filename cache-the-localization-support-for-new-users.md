@@ -1,0 +1,1 @@
+Content for file cache-the-localization-support-for-new-users.md
