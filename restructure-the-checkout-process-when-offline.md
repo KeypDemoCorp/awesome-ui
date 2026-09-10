@@ -1,0 +1,1 @@
+Content for file restructure-the-checkout-process-when-offline.md
