@@ -1,0 +1,1 @@
+Content for file simplify-the-loading-indicators-in-the-admin-panel.md
