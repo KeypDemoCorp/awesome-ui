@@ -1,0 +1,1 @@
+Content for file polish-the-keyboard-shortcuts-on-the-settings-page.md
