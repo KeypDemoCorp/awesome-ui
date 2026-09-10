@@ -1,0 +1,1 @@
+Content for file validate-the-accessibility-labels.md
