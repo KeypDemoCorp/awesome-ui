@@ -1,0 +1,1 @@
+Content for file polish-the-bulk-actions-on-the-main-screen.md
