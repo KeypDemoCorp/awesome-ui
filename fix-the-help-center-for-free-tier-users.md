@@ -1,0 +1,1 @@
+Content for file fix-the-help-center-for-free-tier-users.md
