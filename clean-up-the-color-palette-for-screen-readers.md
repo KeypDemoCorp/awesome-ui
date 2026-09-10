@@ -1,0 +1,1 @@
+Content for file clean-up-the-color-palette-for-screen-readers.md
