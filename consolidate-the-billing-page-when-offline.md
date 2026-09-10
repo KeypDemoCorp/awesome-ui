@@ -1,0 +1,1 @@
+Content for file consolidate-the-billing-page-when-offline.md
