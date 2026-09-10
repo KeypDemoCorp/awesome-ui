@@ -1,0 +1,1 @@
+Content for file simplify-the-keyboard-shortcuts-on-the-main-screen.md
