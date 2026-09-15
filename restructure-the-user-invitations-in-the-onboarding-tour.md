@@ -1,0 +1,1 @@
+Content for file restructure-the-user-invitations-in-the-onboarding-tour.md
