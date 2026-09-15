@@ -1,0 +1,1 @@
+Content for file rename-the-dark-mode-after-sign-up.md
