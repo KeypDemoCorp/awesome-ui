@@ -1,0 +1,1 @@
+Content for file polish-the-filter-panel-after-sign-up.md
