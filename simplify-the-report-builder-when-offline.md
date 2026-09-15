@@ -1,0 +1,1 @@
+Content for file simplify-the-report-builder-when-offline.md
