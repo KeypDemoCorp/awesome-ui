@@ -1,0 +1,1 @@
+Content for file revamp-the-accessibility-labels-on-the-main-screen.md
