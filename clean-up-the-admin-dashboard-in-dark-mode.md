@@ -1,0 +1,1 @@
+Content for file clean-up-the-admin-dashboard-in-dark-mode.md
