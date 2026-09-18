@@ -1,0 +1,1 @@
+Content for file harden-the-caching-layer.md
