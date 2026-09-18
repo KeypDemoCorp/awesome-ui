@@ -1,0 +1,1 @@
+Content for file consolidate-the-checkout-process-in-the-admin-panel.md
