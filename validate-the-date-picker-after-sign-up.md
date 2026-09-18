@@ -1,0 +1,1 @@
+Content for file validate-the-date-picker-after-sign-up.md
