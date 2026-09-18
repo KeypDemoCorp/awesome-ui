@@ -1,0 +1,1 @@
+Content for file rename-the-search-bar-in-the-onboarding-tour.md
