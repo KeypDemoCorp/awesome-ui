@@ -1,0 +1,1 @@
+Content for file streamline-the-dashboard-layout-across-all-pages.md
