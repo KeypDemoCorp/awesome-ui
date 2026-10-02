@@ -1,0 +1,1 @@
+Content for file deprecate-the-role-assignment.md
