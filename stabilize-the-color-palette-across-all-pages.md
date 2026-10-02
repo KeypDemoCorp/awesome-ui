@@ -1,0 +1,1 @@
+Content for file stabilize-the-color-palette-across-all-pages.md
