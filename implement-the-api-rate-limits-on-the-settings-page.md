@@ -1,0 +1,1 @@
+Content for file implement-the-api-rate-limits-on-the-settings-page.md
