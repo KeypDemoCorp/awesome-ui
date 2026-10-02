@@ -1,0 +1,1 @@
+Content for file deprecate-the-color-palette.md
