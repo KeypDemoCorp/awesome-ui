@@ -1,0 +1,1 @@
+Content for file harden-the-filter-panel-in-dark-mode.md
