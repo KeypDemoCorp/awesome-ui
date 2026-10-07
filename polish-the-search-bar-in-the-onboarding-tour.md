@@ -1,0 +1,1 @@
+Content for file polish-the-search-bar-in-the-onboarding-tour.md
