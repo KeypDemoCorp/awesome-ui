@@ -1,0 +1,1 @@
+Content for file update-the-loading-indicators-after-sign-up.md
