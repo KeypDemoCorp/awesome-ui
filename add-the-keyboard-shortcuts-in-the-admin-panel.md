@@ -1,0 +1,1 @@
+Content for file add-the-keyboard-shortcuts-in-the-admin-panel.md
