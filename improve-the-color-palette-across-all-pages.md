@@ -1,0 +1,1 @@
+Content for file improve-the-color-palette-across-all-pages.md
