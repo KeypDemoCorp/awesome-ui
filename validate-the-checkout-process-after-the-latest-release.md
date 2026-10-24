@@ -1,0 +1,1 @@
+Content for file validate-the-checkout-process-after-the-latest-release.md
