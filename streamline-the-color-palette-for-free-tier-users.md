@@ -1,0 +1,1 @@
+Content for file streamline-the-color-palette-for-free-tier-users.md
