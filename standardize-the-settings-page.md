@@ -1,0 +1,1 @@
+Content for file standardize-the-settings-page.md
