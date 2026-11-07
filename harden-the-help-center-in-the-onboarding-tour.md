@@ -1,0 +1,1 @@
+Content for file harden-the-help-center-in-the-onboarding-tour.md
