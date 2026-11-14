@@ -1,0 +1,1 @@
+Content for file harden-the-user-profile-in-the-onboarding-tour.md
