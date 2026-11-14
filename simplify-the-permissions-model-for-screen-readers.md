@@ -1,0 +1,1 @@
+Content for file simplify-the-permissions-model-for-screen-readers.md
