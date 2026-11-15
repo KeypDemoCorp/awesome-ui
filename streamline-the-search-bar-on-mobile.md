@@ -1,0 +1,1 @@
+Content for file streamline-the-search-bar-on-mobile.md
