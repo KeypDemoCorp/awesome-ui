@@ -1,0 +1,1 @@
+Content for file improve-the-filter-panel.md
