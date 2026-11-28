@@ -1,0 +1,1 @@
+Content for file streamline-the-loading-indicators-in-the-onboarding-tour.md
